@@ -11,16 +11,11 @@ KaaRada respects your privacy. This Privacy Policy explains how our alerts mobil
 **1. Information We Collect**
 *   We do not collect, store, or share any personal information.
 *   Users are not required to sign up, create accounts, or provide any personal details to use the App.
-*   The app however uses third-party services that may collect information that maybe used to identify you as user. Link to the privacy policy of third-party service providers used by the app
-
-*   * Main Item
-  * Sub-item (2 spaces)
-    * Deeply nested item (4 spaces)
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Firebase Cloud Messaging](https://firebase.google.com/support/privacy)
+*   The app however uses third-party services that may collect information that maybe used to identify you as user. Link to the privacy policy of third-party service providers used by the app:
+    * [Google Play Services](https://www.google.com/policies/privacy/)
+    * [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
+    * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+    * [Firebase Cloud Messaging](https://firebase.google.com/support/privacy)
  
 **2. Notifications**
 *   The App uses Firebase Cloud Messaging (FCM) to deliver alerts and notifications.
